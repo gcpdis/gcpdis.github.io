@@ -287,7 +287,7 @@ ion-icon {
 
 .btn {
     padding: 15px 30px;
-    background-color: lightgray;
+    background-color: rgb(242, 189, 189);
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
