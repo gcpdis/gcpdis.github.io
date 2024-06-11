@@ -26,6 +26,19 @@
         <nav>
             <div class="logo-container">
                 <img src="logo.jpeg" alt="GCP Services Logo" class="logo" oncontextmenu="return false;">
+
+            .logo-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                }
+
+            .logo {
+                max-width: 100%;
+                height: auto;
+                width: auto; /* Ensures that the aspect ratio is maintained */
+                }
+                
             </div>
             <div class="nav-links" id="navLinks">
                 <i class="fa fa-times" onclick="hideMenu()"></i>
