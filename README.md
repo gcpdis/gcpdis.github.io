@@ -1,2 +1,2 @@
 # gcpdis.github.io
-G C P Disinfection &amp; Sterilization Services
+GCP Disinfection &amp; Sterilization Services
