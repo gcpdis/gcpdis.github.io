@@ -21,11 +21,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail->SMTPSecure = "tls";
     $mail->Port       = 587;
     $mail->Host       = "smtp.gmail.com";
-    $mail->Username   = "tafa1030@gmail.com"; // Your Gmail email address
+    $mail->Username   = "gcpserv24@gmail.com"; // Your Gmail email address
     $mail->Password   = "kcwg qrzx xwve llit"; // Your Gmail password
 
     $mail->IsHTML(true);
-    $mail->AddAddress("atifib@gmail.com", "tafa1030@gmail.com"); // Change the email address and recipient name
+    $mail->AddAddress("gcpserv24@gmail.com"); // Change the email address and recipient name
     $mail->SetFrom($email, $name);
     $mail->AddReplyTo($email, $name);
 
