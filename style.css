@@ -39,13 +39,15 @@ nav img {
 .logo-container {
     width: 250px;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {
     max-width: 150px;
     height: auto;
     background: transparent;
-    text-align: center;
 }
 
 .nav-links ul li a {
