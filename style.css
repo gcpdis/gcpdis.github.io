@@ -37,15 +37,15 @@ nav img {
 }
 
 .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 250px;
+    margin: 0 auto;
 }
 
 .logo {
     max-width: 150px;
     height: auto;
     background: transparent;
+    text-align: center;
 }
 
 .nav-links ul li a {
