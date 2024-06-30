@@ -44,8 +44,7 @@ nav img {
 
 .logo {
     max-width: 150px;
-    height: auto;
-    background: transparent;
+    height: 150px;
 }
 
 .nav-links ul li a {
